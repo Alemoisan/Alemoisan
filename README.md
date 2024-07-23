@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alemoisan
-- 👀 I’m interested in Legal Tech
-- 🌱 I’m currently learning Cypher and Python
+- 👀 I’m interested in Legal Tech & Graphs
+- 🌱 I’m Neo4J Certified and I'm currently learning Cypher and Python
 - 📫 How to reach me audrey.lemoisan@gmail.com
 
 
